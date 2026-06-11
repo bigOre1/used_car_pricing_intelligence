@@ -1,0 +1,11 @@
+{
+  "total_vehicles": 520,
+  "total_revenue": 11133245.42,
+  "total_gross_profit": 1393331.42,
+  "avg_gross_margin_pct": 12.36,
+  "avg_days_to_sale": 44.7,
+  "avg_sale_price": 21410.09,
+  "top_make_by_revenue": "BMW",
+  "model_metrics": {},
+  "charts_generated": 8
+}
